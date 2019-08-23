@@ -8,7 +8,7 @@ var musicList = [
   auther: '贰佰'
 },
 {
-  src: '../music1.mp3',
+  src: './music1.mp3',
   title: 'Love Me Like You Do',
   auther: 'Kait Weston,Katherine Hughes'
 },
